@@ -17,19 +17,45 @@ Wenxuan Wang, Zizhan Ma, Meidan Ding, etc. [01.Aug.2025]
 ## Reasoning
 **Prolog-Driven Rule-Based Diagnostics with Large Language Models for Precise Clinical Decision Support**
 
-Xiaoyu Tan, Bin Li, Weidi Xu, etc., [2025]
+Xiaoyu Tan, Bin Li, Weidi Xu, etc. [2025]
 
 [[Paper](https://papers.miccai.org/miccai-2025/paper/2399_paper.pdf)] [[Code](https://github.com/testlbin/procds/tree/main)]
 
 ## Finetuning
 **HuatuoGPT-o1, Towards Medical Complex Reasoning with LLMs**
 
-Junying Chen, Zhenyang Cai, Ke Ji, Xidong Wang, Wanlong Liu, Rongsheng Wang, Jianye Hou, Benyou Wang
+Junying Chen, Zhenyang Cai, Ke Ji, Xidong Wang, Wanlong Liu, Rongsheng Wang, Jianye Hou, Benyou Wang [25.Dec.2024]
 
 [[Paper](https://arxiv.org/pdf/2412.18925)] [[Code](https://github.com/FreedomIntelligence/HuatuoGPT-o1)]
 
+**Hippocrates: An Open-Source Framework for Advancing Large Language Models in Healthcare**
+
+Emre Can Acikgoz, Osman Batur Ince, etc. [25.Apr.2024]
+[[Paper](https://arxiv.org/abs/2404.16621)] [[Code](https://github.com/emrecanacikgoz/Medical-Factory)]
+
+## Multi-Agents
+**ColaCare: Enhancing Electronic Health Record Modeling through Large Language Model-Driven Multi-Agent Collaboration**
+
+Zixiang Wang, Yinghao Zhu, etc. [24.Oct.2024]
+
+[[Paper](https://arxiv.org/abs/2410.02551)]
+
+**ArgMed-Agents: Explainable Clinical Decision Reasoning with LLM Disscusion via Argumentation Schemes**
+
+Shengxin Hong, Liang Xiao [10.Mar.2024]
+
+[[Paper](https://arxiv.org/abs/2403.06294)]
+
+**MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning**
+
+Xiangru Tang, Anni Zou, etc. [16.Nov.2023]
+
+[[Paper](https://arxiv.org/pdf/2311.10537)]
+
 ## Dataset
 **PubMedQA: A Dataset for Biomedical Research Question Answering**
+
 Qiao Jin, Bhuwan Dhingra, Zhengping Liu
+
 [[Paper](https://arxiv.org/abs/1909.06146)]
 
